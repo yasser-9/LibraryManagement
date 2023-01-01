@@ -2,15 +2,13 @@
 
 ## Présentation
 
-Une interface console pour accèder aux fonctionnalités est suffisante.
+Une interface console pour accèder aux fonctionnalités.
 
-La solution de persistance peut être au choix :
+La solution de persistance : 
 
-    * Une base sql locale
+   * Des csv
 
-    * Des csv
-
-Deux fichiers csv sont fournis, ils comprennent :
+Fichiers csv:
 
     * La liste des livres actuellement au catalogue
 
